@@ -36,7 +36,7 @@ Outros podem enviar dinheiro para você usando sua **Chave Pix**. Não há mais 
 ## Custo
 A maioria das transações do Pix são **gratuitas**. No entanto, é essencial estar ciente de que podem ser aplicadas taxas para transações específicas ou transferências de alto valor. Verifique com seu banco os detalhes exatos.
 
-## Comece hoje mesmo a usar o Pix!
+## Comece a usar hoje mesmo o Pix!
 O Pix está transformando a forma como lidamos com o dinheiro, tornando-o mais rápido, mais acessível e mais seguro. Sem espera e com transações instantâneas. Comece hoje mesmo com o Pix e experimente o futuro do setor bancário.
 
 [Para mais informações ou para verificar se o seu banco suporta Pix, visite nosso site](https://www.itau.com.br/pix).
